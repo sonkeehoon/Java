@@ -1,3 +1,7 @@
+<img src="https://venturebeat.com/wp-content/uploads/2015/12/oracle-java-e1450723340931.jpg?w=1200&strip=all" width="200" height="100">
+
+
+
 # `Java`를 공부하면서 기록을 남기는 곳
 
 취준을 1년가까이 하면서 느꼈지만 Java를 쓰는 기업이 참 많은것 같다
