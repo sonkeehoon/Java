@@ -10,8 +10,6 @@ Java자체나 프레임워크, 앱개발(kotlin 등)에도 쓰여서 범용성�
 
 뭔가 손이 안가서 끝까지 안하고 싶었지만 결국 자존심 굽히고 Java를 정복하기로 마음먹었다
 
-
-
 <br>
 
 >### 전에 Docker를 공부하면서 기록을 매우 디테일하게 남겼었는데 결론은... 너무 힘들었다..
@@ -33,3 +31,32 @@ Java자체나 프레임워크, 앱개발(kotlin 등)에도 쓰여서 범용성�
 .class 파일은 사람이 읽을수 없는 파일
 
 HelloWorld를 띄우는것으로 우선 자바 환경설정은 마무리가 됐다 (과정 생략)
+
+<br>
+
+## `2023-09-07` Java 2일차
+- Java가 컴퓨터에서 어떻게 동작하는지 이해
+  - 자세한 설명 : https://youtu.be/9V0rdrm59X4?si=Pet0aTxUQNK88YKM&t=120
+![image](https://github.com/sonkeehoon/Java/assets/81700507/f3dc0d98-eb11-4b63-a535-c8bc3c50a886)
+
+1. 확장자가 .java인 소스코드를 작성
+  - 사람만 이해할수 있는 언어이다
+  - 기계(컴퓨터)는 .java 파일을 이해할수 없다
+2. 기계가 알아듣게 만들기 위해 .java 파일을 compile 해서 .class 파일로 바꾼다
+- 이클립스에서 소스코드(.java)파일을 작성하고 저장 버튼을 누르면 자동으로 class파일이 생성된다
+- 개발자가 Java의 기술을 응용해서 만든 Application
+- 확장자가 class인 이 파일을 Java Application 이라고 부른다
+3. JVM(Java Virtual Machine)에게 .class파일을 실행하라고 시킨다
+- 이클립스에서 run 버튼을 누르면 수행되는 일
+- JVM이 확장자가 class인 파일을 읽어서 적힌대로 컴퓨터를 동작시킨다
+
+Java로 할수있는 것들은 뭐가 있을까?
+- 데스크탑 어플리케이션 : https://www.youtube.com/watch?v=bZuoyW26zW4&list=PLuHgQVnccGMAIluRRVsC1e79ri-dwnBmR&index=11
+- 사물 제어 : https://www.youtube.com/watch?v=hbk1twmxzF4&list=PLuHgQVnccGMAIluRRVsC1e79ri-dwnBmR&index=12
+- 안드로이드 어플리케이션 : https://www.youtube.com/watch?v=hbk1twmxzF4&list=PLuHgQVnccGMAIluRRVsC1e79ri-dwnBmR&index=13
+
+
+
+
+
+
