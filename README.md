@@ -55,6 +55,21 @@ Java로 할수있는 것들은 뭐가 있을까?
 - 사물 제어 : https://www.youtube.com/watch?v=hbk1twmxzF4&list=PLuHgQVnccGMAIluRRVsC1e79ri-dwnBmR&index=12
 - 안드로이드 어플리케이션 : https://www.youtube.com/watch?v=hbk1twmxzF4&list=PLuHgQVnccGMAIluRRVsC1e79ri-dwnBmR&index=13
 
+<br>
+
+## `2023-09-08` Java 3일차
+공부할 내용
+- 데이터와 연산
+- 데이터 타입
+- 숫자와 연산
+- 문자열의 표현
+- 문자열 다루기
+
+다른 언어에서 수차례 공부했던 부분들이라 가볍게 들으면서 넘어가려고 한다
+
+> vscode에서도 java가 실행 가능한 모양이다..! eclipse가 개인적으로 불편하기도 해서 내일 해보려고 한다
+
+
 
 
 
