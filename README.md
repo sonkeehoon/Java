@@ -112,6 +112,8 @@ __Q. (casting 관련 질문) 다음 코드에서 b가 1.0으로 출력되는 이
 
 특별히 메모할 내용은 없다
 
+<br>
+
 ## `2023-09-17` Java 6일차
 
 1. 디버거
@@ -121,6 +123,26 @@ __Q. (casting 관련 질문) 다음 코드에서 b가 1.0으로 출력되는 이
 오늘도 특별히 메모할 내용은 없다
 
 <br>
+
+## `2023-09-20` Java 7일차
+
+1. 입력과 출력
+
+입력을 받을때 대화상자를 띄워서 입력받고 싶다면
+
+```
+import javax.swing.JOptionPane;
+
+JOption.showInputDialog(message);
+```
+
+입력받은 String 데이터를 Double로 변환하려면
+```
+Double.parseDouble(variable);
+```
+
+<br>
+
 
 
 
