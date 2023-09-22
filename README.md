@@ -143,6 +143,45 @@ Double.parseDouble(variable);
 
 <br>
 
+## `2023-09-22` Java 8일차
+
+1. 자바 직접 컴파일하고 실행하기
+  - .java 파일을 컴파일해서 .class로 바꾼다
+  - .class파일을 실행(Run)한다
+  - 실행할때 입력값을 준다
+2. 라이브러리를 이용할때 컴파일하고 실행하기
+
+리눅스에서 환경변수 수정하는법
+```
+vi ~/.bash_profile
+```
+맨 아랫줄에 본인의 JAVA JDK가 설치된 곳의 bin 디렉토리를 적어준다(예시)
+```
+export PATH=$PATH:/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/bin
+```
+1.1 .java파일 컴파일
+
+터미널에서 컴파일하기 원하는 .java파일이 있는곳으로 이동한 후 다음 명령어를 실행한다
+```
+javac {filename}.java
+```
+잘 안될수도 있다. 그냥 넘어가자
+
+.class 파일 실행하기
+```
+java {filename}
+```
+주의할 점은 filename 뒤에 .class를 붙이지 않는다
+
+<br>
+
+
+
+
+
+
+
+
 
 
 
