@@ -175,6 +175,32 @@ java {filename}
 
 <br>
 
+## `2023-09-23` Java 9일차
+
+1. 자바 문서 보는법
+   - API vs UI
+   - 패키지, 클래스, 변수, 메소드
+   - 클래스
+   - 인스턴스
+   - 상속
+
+1.5 상속
+
+![image](https://github.com/sonkeehoon/Java/assets/81700507/e6ca6d00-418a-476c-a835-022231c2e1ed)
+![image](https://github.com/sonkeehoon/Java/assets/81700507/2ec2829a-4730-4e7f-bfb6-e24f6fe8586d)
+
+
+Object(=superclass)는 Writer의 부모클래스이고 Writer는 PrintWriter의 부모클래스이다
+
+PrintWriter를 만들던 사람이 처음부터 짜기 귀찮아서(?) Writer를 상속받고
+
+거기에 본인이 필요한 기능만 추가적으로 넣어서 새로운 PrintWriter를 만든것
+
+당연히 PrintWriter 클래스는 모든 Writer의 기능을 사용할수 있다
+
+<br>
+
+
 
 
 
