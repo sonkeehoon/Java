@@ -200,9 +200,25 @@ PrintWriter를 만들던 사람이 처음부터 짜기 귀찮아서(?) Writer를
 
 <br>
 
-## `2023-09-24` Java 9일차
+## `2023-09-25` Java 10일차
 
 1. 나의 앱 만들기
+
+강의 내용을 그대로 따라하면 된다 특별히 어려운점은 없었다
+
+사용자의 입력을 받을때 eclipse 에서는 args에 변수를 주는법이 있는데 
+
+나는 vscode에서 작업중이라 그냥 java.util.Scanner 를 활용했다
+
+예를들면
+```
+import java.util.Scanner;
+Scanner sc = new Scanner(System.in);
+System.out.print("가격을 입력하세요 : ");
+double valueOfSupply = sc.nextDouble();
+...
+```
+이런식으로 입력을 받았다. 끝!
 
 
 
