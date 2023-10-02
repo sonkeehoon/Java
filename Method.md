@@ -13,6 +13,9 @@ Java자체나 프레임워크, 앱개발(kotlin 등)에도 쓰여서 범용성�
 ## `2023-10-02` 1일차
 
 1. 수업소개
+   - 자바에서는 function = method
 2. 이미 익숙한 메소드
+   - println(), Math.floor()에서 floor() 등등
+   - public static void main() 에서 main()도 메소드
 3. 메소드의 기본 형식
 
