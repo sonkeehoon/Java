@@ -8,14 +8,19 @@ Java자체나 프레임워크, 앱개발(kotlin 등)에도 쓰여서 범용성�
 
 뭔가 손이 안가서 끝까지 안하고 싶었지만 결국 자존심 굽히고 Java를 정복하기로 마음먹었다
 
-<br>
+<hr><br>
 
 ## `2023-10-02` 1일차
 
 1. 수업소개
-   - 자바에서는 function = method
+- 1. 자바에서는 function = method
 2. 이미 익숙한 메소드
-   - println(), Math.floor()에서 floor() 등등
-   - public static void main() 에서 main()도 메소드
+- 1. println(), Math.floor()에서 floor() 등등
+- 2. public static void main() 에서 main()도 메소드
 3. 메소드의 기본 형식
+- 1. Java에서 리팩토링의 핵심 요소는 method
+
+<br>
+
+
 
