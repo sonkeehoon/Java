@@ -32,4 +32,12 @@ Java자체나 프레임워크, 앱개발(kotlin 등)에도 쓰여서 범용성�
 
 <br>
 
+## `2023-10-04` 3일차
+
+1. 수업을 마치며
+2. 부록 - access level modifiers
+3. 부록 - static
+- 1. static - class method (인스턴스가 아닌 클래스자체에 소속되어있는 메소드)
+- 2. no static - instance method (클래스가 아닌 인스턴스의 메소드)
+
 
