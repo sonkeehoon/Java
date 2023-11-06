@@ -1,4 +1,4 @@
-# `Java Method`를 공부하면서 기록을 남기는 곳
+# `Java Method`
 
 참고 강의 : https://www.youtube.com/playlist?list=PLuHgQVnccGMDkdt3N9tT0aZPZx5-Ri2jo
 
